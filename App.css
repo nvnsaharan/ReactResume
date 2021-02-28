@@ -1,0 +1,30 @@
+.App {
+	height: 120%;
+	min-width: 100vh;
+	width: 100%;
+	padding-bottom: 20px;
+	background-color: #203647;
+	margin: 0px auto;
+}
+
+.downloadBtnDiv {
+	text-align: center;
+	margin: 10px 0px;
+}
+.downloadBtnDiv > h3 {
+	margin: 0px 10px;
+	display: inline;
+	color: white;
+	font-weight: normal;
+}
+
+.downloadBtnDiv > button {
+	cursor: pointer;
+	padding: 7px 30px;
+	border-radius: 3px;
+	color: white;
+	background-color: #4da8da;
+	font-weight: bold;
+	margin-left: 80%;
+	border: none;
+}
